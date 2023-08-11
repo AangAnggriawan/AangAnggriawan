@@ -11,7 +11,7 @@ Saya juga memiliki ketertarikan pada bidang IT sejak 2021 pada saat saya menimba
 Jika kamu tertarik untuk berkenalan denganku, silakan lihat akun di [Linkedin](https://www.linkedin.com/in/aang-anggriawan-093107251/)ku ya.
 
 <p align="left">
-<a href="https://github.com/gilangadhan">
+<a href="https://github.com/AangAnggriawan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AangAnggriawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AangAnggriawan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
